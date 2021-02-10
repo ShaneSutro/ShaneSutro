@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning fullstack, application design, and web apps with Hack Reactor
 - 👯 I’m looking to collaborate with other content creators and learn from others
 - 🥅 2021 Goals: Work on some open source projects!
-- ⚡ Fun fact: I love all kinds of music and I appreciate a good cup of coffee and the art form that goes into making it.
+- ⚡ Fun fact: I love all kinds of music and I appreciate a good cup of coffee and the art and precision that goes into making an excellent cup.
 - 💬 Ask me about the [Vestaboard](https://github.com/SonicRift/Vestaboard) project I'm working on!
 
 ### Connect with me:
