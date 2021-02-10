@@ -92,6 +92,8 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
+![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonicRift&bg_color=30,980000,984500,a77f03,0c8900,004b83&title_color=fff&text_color=fff)
+
 <a href="https://github.com/SonicRift">
 <img align="center" alt="Shane's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SonicRift&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,980000,984500,a77f03,0c8900,004b83" /></a>
 <a href="https://github.com/SonicRift">
