@@ -89,8 +89,9 @@
 </code>](https://www.kernel.org/)
 
 ---
-
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonicRift&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff)
+<a href="https://github.com/SonicRift>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SonicRift&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
 <a href="https://github.com/SonicRift">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SonicRift&layout=compact&theme=radical" />
 </a>
