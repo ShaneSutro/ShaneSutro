@@ -92,9 +92,8 @@
 <a href="https://github.com/SonicRift">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SonicRift&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
-<a href="https://github.com/SonicRift">
-  <img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?SonicRift" />
-</a>
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?SonicRift" frameborder="0"></iframe>
 
 <a href="https://github.com/SonicRift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaneSutro" />
