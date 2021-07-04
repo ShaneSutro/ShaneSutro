@@ -94,6 +94,10 @@
 </a>
 
 <a href="https://github.com/SonicRift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonicRift" />
+</a>
+
+<a href="https://github.com/SonicRift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaneSutro" />
 </a>
 
