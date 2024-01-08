@@ -3,9 +3,9 @@
 ### I'm a student, developer, tinkerer, and generally curious human
 
 - 🔭 I’m currently working on various employee productivity tools
-- 🌱 I’m currently learning fullstack, application design, and web apps with Hack Reactor
+- 🌱 I’m currently learning Java and some new front end frameworks
 - 👯 I’m looking to collaborate with other content creators and learn from others
-- 🥅 2021 Goals: Work on some open source projects!
+- 🥅 2024 Goals: Get some Java apps built
 - ⚡ Fun fact: I love all kinds of music and I appreciate a good cup of coffee and the art and precision that goes into making an excellent cup.
 - 💬 Ask me about the [Vestaboard](https://github.com/SonicRift/Vestaboard) project I'm working on!
 
